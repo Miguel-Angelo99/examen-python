@@ -1,0 +1,11 @@
+1. Se tiene una matriz nxn de enteros, crear una funci ́on que
+retorne un arreglo cuyo primer elemento es la cantidad de
+n ́umeros que aparecen solo una vez y cuyo segundo elemento
+la cantidad de t ́erminos repetidos.
+Ejemplos
+[[2, 2], [2, 2]] - [0, 1]
+[[2, 1, 3], [4, 5, 2], [6, 6, 6]] - [4, 2]
+
+2. Se tiene un n ́umero natural n, crear una funci ́on que retorne
+una lista de todos los pares de n ́umeros naturales que sumen
+el n ́umero n. n < 10^6
